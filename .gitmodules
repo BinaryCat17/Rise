@@ -1,0 +1,9 @@
+[submodule "subprojects/RiEngine"]
+	path = subprojects/RiEngine
+	url = https://github.com/ComradeStalin17/RiEngine.git
+[submodule "subprojects/RiWindow"]
+	path = subprojects/RiWindow
+	url = https://github.com/ComradeStalin17/RiWindow.git
+[submodule "subprojects/RiUtil"]
+	path = subprojects/RiUtil
+	url = https://github.com/ComradeStalin17/RiUtil.git
