@@ -1,0 +1,12 @@
+
+build/
+
+subprojects/lua-5.3.4/
+
+subprojects/packagecache/
+
+subprojects/glfw
+
+subprojects/signals
+
+subprojects/sol2
